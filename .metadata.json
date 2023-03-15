@@ -1,0 +1,18 @@
+[
+  {
+    "package": "microclass",
+    "oncran": true
+  },
+  {
+    "package": "microcontax",
+    "oncran": true
+  },
+  {
+    "package": "micropan",
+    "oncran": true
+  },
+  {
+    "package": "microseq",
+    "oncran": true
+  }
+]
