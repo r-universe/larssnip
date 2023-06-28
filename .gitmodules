@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "microclass"]
 	path = microclass
 	url = https://github.com/larssnip/microclass
-	shallow = true
-	registered = true
 [submodule "microcontax"]
 	path = microcontax
 	url = https://github.com/larssnip/microcontax
-	shallow = true
-	registered = true
 [submodule "micropan"]
 	path = micropan
 	url = https://github.com/larssnip/micropan
-	shallow = true
-	registered = true
 [submodule "microseq"]
 	path = microseq
 	url = https://github.com/larssnip/microseq
-	shallow = true
-	registered = true
